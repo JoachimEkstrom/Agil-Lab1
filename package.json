@@ -1,0 +1,11 @@
+{
+  "name": "labb1",
+  "version": "1.0.0",
+  "description": "Labb1 Agilutveckling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joachim Ekström",
+  "license": "ISC"
+}
