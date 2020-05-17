@@ -1,5 +1,5 @@
 function name() {
-  return "Berra1";
+  return "Berra";
 }
 
 module.exports = { name };
